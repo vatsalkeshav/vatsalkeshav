@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make my code less buggy and more coffee-powered.
 - 💞️ I’m looking to collaborate on some open-source projects that involve a lot of debugging and late-night coding sessions.
 - 📫 How to reach me: You can find me hiding behind a stack of coffee mugs in my hostel. Just DM me on my insta id: @vatsalkeshav
-- 😄 Pronouns: <codeknight num=1> </ codeknight> (unless my code has a bug, then it’s "It/That Thing")
+- 😄 Pronouns: <codeknight num=1> </ codeknight>
 - ⚡ Fun fact: I once turned a “Hello World” into a full-stack app... by accident.
 
 <!---

@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @vats004
-- 👀 I’m interested in pushing chaos to open-source and writing code that somehow works... most of the time.
-- 🌱 I’m currently learning how to make my code less buggy and more coffee-powered.
-- 💞️ I’m looking to collaborate on some open-source projects that involve a lot of debugging and late-night coding sessions.
-- 📫 How to reach me: You can find me hiding behind a stack of coffee mugs in my hostel. Just DM me on my insta id: @vatsalkeshav
-- 😄 Pronouns: <codeknight num=1> </ codeknight>
-- ⚡ Fun fact: I once turned a “Hello World” into a full-stack app... by accident.
+- 👀 I’m interested in contibuting to open-source projects and add some PRs in my resume
+- 🌱 I’m currently learning rust, next.js, react.js, python and postgresql
+- 💞️ I’m looking to collaborate on lots of interesting projects
+- 📫 I would reply ASAP to any work realted stuff on my email : vatsalkeshav224@gmail.com 
+- ⚡ Fun fact #1: I know 9 languages : English, Hindi, Spanish, French, Sanskrit, Urdu, Bengali, Japanese and Russian
+- ⚡ Fun fact #2: Once, I somehow made a 'Hello World' in rust into a fullstack containerized app(rust, postgresql and react)
+
 
 <!---
 vats004/vats004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

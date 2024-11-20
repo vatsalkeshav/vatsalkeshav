@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vats004
 - 👀 I’m interested in contibuting to open-source projects and add some PRs in my resume
 - 🌱 I’m currently learning rust, next.js, react.js, python and postgresql
-- 💞️ I’m looking to collaborate on lots of interesting projects
-- 📫 I would reply ASAP to any work realted stuff on my email : vatsalkeshav224@gmail.com 
+- 💞️ I’m looking to contribute to The Linux Foundation, AOSSIE ,Chromium and Ccextractor
+- 📫 Reach me out on my email(would reply ASAP) : vatsalkeshav224@gmail.com
 - ⚡ Fun fact #1: I know 9 languages : English, Hindi, Spanish, French, Sanskrit, Urdu, Bengali, Japanese and Russian
 - ⚡ Fun fact #2: Once, I somehow made a 'Hello World' in rust into a fullstack containerized app(rust, postgresql and react)
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vats004
 - 👀 I love contibuting to open-source projects
-- 🌱 I’m currently working with rust, react.js, flutter and postgresql
+- 🌱 I’m currently working in c++, rust, docker and postgresql
 - 📫 Reach me out on my email(would reply ASAP) : vatsalkeshav224@gmail.com
 
 <!---

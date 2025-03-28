@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @vats004
+- 👋 Hi, I’m Vatsal _vats004_
 - 👀 I love contributing to open-source projects
-- 🌱 I’m currently working with C++, Rust, Docker, and PostgreSQL
+- 🌱 I’m currently working with C, Rust, Docker, PostgreSQL, ReactLS and Flutter
 - 📫 Reach out to me via email : vatsalkeshav224@gmail.com
-
-<!---
-vats004/vats004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 or LinkedIn : [linkedin.com/in/vatsal-keshav](linkedin.com/in/vatsal-keshav)

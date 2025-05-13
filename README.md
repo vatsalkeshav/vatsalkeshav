@@ -1,5 +1,5 @@
-- 👋 Hello, I’m Vatsal _vats004_ and I love Rust
-- 🌱 Ask me about Rust, C/C++, Docker, PostgreSQL, ReactJS, Flutter
-- 👀 I love contributing to open-source projects
-- 📫 Reach out to me via email : vatsalkeshav224@gmail.com
-- 📫 or LinkedIn : [linkedin.com/in/vatsal-keshav](linkedin.com/in/vatsal-keshav)
+- 👋 Hello, I’m Vatsal Keshav
+- 🫀 I love contributing to open-source
+- 🌱 using Rust
+- 📫 Email me at vatsalkeshav224@gmail.com
+- 🔗 or reach out at [linkedin.com/in/vatsal-keshav](linkedin.com/in/vatsal-keshav)

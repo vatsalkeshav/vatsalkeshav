@@ -2,4 +2,3 @@
 - 🫀 I love contributing to open-source
 - 🌱 using Rust
 - 📫 Email me at vatsalkeshav224@gmail.com
-- 🔗 or reach out at [linkedin.com/in/vatsal-keshav](linkedin.com/in/vatsal-keshav)

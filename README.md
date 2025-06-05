@@ -1,4 +1,4 @@
 - 👋 Hello, I’m Vatsal Keshav
-- 🫀 I love contributing to open-source
-- 🌱 using Rust
-- 📫 Email me at vatsalkeshav224@gmail.com
+- 🫀 I love open-source
+- 🌱 and to code using Rust
+- 📫 Reach me at vatsalkeshav224@gmail.com
